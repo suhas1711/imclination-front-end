@@ -6,6 +6,7 @@
     "npm": "8.15.0"
   },
   "private": true,
+  "force": true,
   "dependencies": {
     "@devexpress/dx-react-chart": "3.0.5",
     "@devexpress/dx-react-chart-material-ui": "3.0.5",
